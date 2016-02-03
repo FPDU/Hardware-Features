@@ -1,2 +1,2 @@
-# Hardware-Features
-Hardware feature table
+# Prosthesis-Hardware
+Prosthesis Hardware table
